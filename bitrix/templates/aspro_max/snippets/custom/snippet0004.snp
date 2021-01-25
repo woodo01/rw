@@ -1,0 +1,58 @@
+<div class="accordion-type-1">
+			<div class="item-accordion-wrapper bordered box-shadow">
+				<div class="accordion-head colored_theme_hover_bg-block accordion-close font_md" data-toggle="collapse" data-parent="#accordion1" href="#accordion1">
+ <span class="arrow_open pull-right colored_theme_hover_bg-el"></span>1. Установка внешнего блока
+				</div>
+				<div id="accordion1" class="panel-collapse collapse">
+					<div class="accordion-body">
+						<div class="row">
+							<div class="col-md-12">
+								 Возможна установка на стенах дома, открытых балконах или крепление к крыше зданий. В установку также включена стоимость работы промышленных альпинистов.
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="item-accordion-wrapper bordered box-shadow">
+				<div class="accordion-head colored_theme_hover_bg-block accordion-close font_md" data-toggle="collapse" data-parent="#accordion2" href="#accordion2">
+ <span class="arrow_open pull-right colored_theme_hover_bg-el"></span>2. Штробление стен под внутренний блок
+				</div>
+				<div id="accordion2" class="panel-collapse collapse">
+					<div class="accordion-body">
+						 Специалисты замеряют расположение внутреннего блока и штробят в отмеренных местах стены в помещении. Это необходимо для того, чтобы провести трубки из одного блока к другому и эстетично скрыть проводку. Также предусмотрены варианты штробления полов. Вы можете отказаться от этого этапа и закрыть выступающие трубки декоративными пластиковыми коробами.
+					</div>
+				</div>
+			</div>
+			<div class="item-accordion-wrapper bordered box-shadow">
+				<div class="accordion-head colored_theme_hover_bg-block accordion-close font_md" data-toggle="collapse" data-parent="#accordion3" href="#accordion3">
+ <span class="arrow_open pull-right colored_theme_hover_bg-el"></span>3. Установка внутреннего блока
+				</div>
+				<div id="accordion3" class="panel-collapse collapse">
+					<div class="accordion-body">
+						 Перед установкой внутреннего блока работники рассчитывают оптимальное расстояние от потолка. Также учитывается, чтобы поток воздуха не был прямо направлен на людей. После расчетов осуществляется установка кондиционера, который крепится на кронштейнах.
+					</div>
+				</div>
+			</div>
+			<div class="item-accordion-wrapper bordered box-shadow">
+				<div class="accordion-head colored_theme_hover_bg-block accordion-close font_md" data-toggle="collapse" data-parent="#accordion4" href="#accordion4">
+ <span class="arrow_open pull-right colored_theme_hover_bg-el"></span>4. Контрольный запуск
+				</div>
+				<div id="accordion4" class="panel-collapse collapse">
+					<div class="accordion-body">
+						 После установки наши сотрудники проверяют кондиционер через тест-программу, которая установлена на всех моделях агрегата.
+					</div>
+				</div>
+			</div>
+			<div class="item-accordion-wrapper bordered box-shadow">
+				<div class="accordion-head colored_theme_hover_bg-block accordion-close font_md" data-toggle="collapse" data-parent="#accordion5" href="#accordion5">
+ <span class="arrow_open pull-right colored_theme_hover_bg-el"></span>5. Уборка помещения
+				</div>
+				<div id="accordion5" class="panel-collapse collapse">
+					<div class="accordion-body">
+						 По окончании работ осуществляется уборка мусора. Клиент принимает заказ в чистом помещении.
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
