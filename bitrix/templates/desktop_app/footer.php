@@ -19,6 +19,6 @@ $helpUrl = CHTTP::urlAddParams($helpUrl, [
 		langId: '<?=LANGUAGE_ID?>'
 	});
 </script>
-s
+
 </body>
 </html>
