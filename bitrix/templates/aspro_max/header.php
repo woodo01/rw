@@ -7,6 +7,8 @@ $arSite = CSite::GetByID(SITE_ID)->Fetch();
 $htmlClass = ($_REQUEST && isset($_REQUEST['print']) ? 'print' : false);
 $bIncludedModule = (\Bitrix\Main\Loader::includeModule("aspro.max"));?>
 
+<?$APPLICATION->SetAdditionalCSS(SITE_TEMPLATE_PATH.'/css/comagic.css', true);?>
+
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<?=LANGUAGE_ID?>" lang="<?=LANGUAGE_ID?>" <?=($htmlClass ? 'class="'.$htmlClass.'"' : '')?> <?=($bIncludedModule ? CMax::getCurrentHtmlClass() : '')?>>
 <head>
